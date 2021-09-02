@@ -1,0 +1,12 @@
+<html xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
+    <body>
+        <%=form_for Produto.new do |form| %>>
+            Nome <input type="text" name="produto[nome]"></br>
+            Descricao <textarea name="produto[descricao]"></textarea></br>
+            Preco <input type="number" name="produto[preco]" step="0.01">
+            Quantidade <input type="number" name="produto[quantidade]">
+
+            <button type="submit">Criar</button>
+        <% end %>>
+    </body>
+</html>
