@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb6d82a3-4a79-4feb-8b48-cc16310ace51" name="Changes" comment="update README.md">
-      <change beforePath="$PROJECT_DIR$/.idea/ruby_course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ruby_course.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/produtos_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/produtos_controller.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models/produto.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/produto.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/produtos/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/produtos/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/produtos/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/produtos/new.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/application.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/application.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +42,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -180,6 +185,7 @@
       <workItem from="1631102082309" duration="41000" />
       <workItem from="1631111149210" duration="449000" />
       <workItem from="1631111626229" duration="1622000" />
+      <workItem from="1631541883321" duration="1848000" />
     </task>
     <task id="LOCAL-00001" summary="add git_ignore">
       <created>1630523884688</created>
@@ -382,6 +388,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add git_ignore" />
     <MESSAGE value="Add route" />
     <MESSAGE value="Add files" />

@@ -3,6 +3,8 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.6.6'
 
+#Gem para tradução
+gem 'rails-i18n', '~> 5.1'
 # Bootstrap Twitter
 gem  "therubyracer"
 gem  "less-rails"  #Sprockets (o que Rails 3.1 usa para seu pipeline de ativos) suporta MENOS
