@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb6d82a3-4a79-4feb-8b48-cc16310ace51" name="Changes" comment="update README.md">
+    <list default="true" id="fb6d82a3-4a79-4feb-8b48-cc16310ace51" name="Changes" comment="update file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/produtos_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/produtos_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/produto.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/produto.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/produtos/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/produtos/new.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/application.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/application.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/produtos/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/produtos/index.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +22,14 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7bde2e2b-c61f-4dcc-bd4e-d206d9748277" />
+        <option name="url" value="https://github.com/carlossh8/ruby_course.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -47,7 +49,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Gitlab/pap-backend" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -185,7 +187,9 @@
       <workItem from="1631102082309" duration="41000" />
       <workItem from="1631111149210" duration="449000" />
       <workItem from="1631111626229" duration="1622000" />
-      <workItem from="1631541883321" duration="1848000" />
+      <workItem from="1631541883321" duration="2120000" />
+      <workItem from="1631621886895" duration="43000" />
+      <workItem from="1631626027113" duration="3397000" />
     </task>
     <task id="LOCAL-00001" summary="add git_ignore">
       <created>1630523884688</created>
@@ -369,7 +373,21 @@
       <option name="project" value="LOCAL" />
       <updated>1631111269024</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="update file">
+      <created>1631543799084</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1631543799084</updated>
+    </task>
+    <task id="LOCAL-00028" summary="update file">
+      <created>1631543842423</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1631543842423</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,7 +420,6 @@
     <MESSAGE value="Update routes and controller" />
     <MESSAGE value="new file" />
     <MESSAGE value="DRY - Don't Repeat Yourself" />
-    <MESSAGE value="update file" />
     <MESSAGE value="update" />
     <MESSAGE value="." />
     <MESSAGE value="update routes.rb" />
@@ -410,7 +427,8 @@
     <MESSAGE value="update index.html.erb" />
     <MESSAGE value="update application.html.erb" />
     <MESSAGE value="update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
+    <MESSAGE value="update file" />
+    <option name="LAST_COMMIT_MESSAGE" value="update file" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ruby_course@Development__ruby_course.rcov" NAME="Development: ruby_course Coverage Results" MODIFIED="1630523091280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby_course" />
