@@ -7,6 +7,7 @@
     <list default="true" id="fb6d82a3-4a79-4feb-8b48-cc16310ace51" name="Changes" comment="Update files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/departamentos_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/departamentos_controller.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/produtos_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/produtos_controller.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/departamentos/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/departamentos/index.html.erb" afterDir="false" />
@@ -196,7 +197,7 @@
       <workItem from="1631541883321" duration="2120000" />
       <workItem from="1631621886895" duration="43000" />
       <workItem from="1631626027113" duration="7370000" />
-      <workItem from="1631733598879" duration="1963000" />
+      <workItem from="1631733598879" duration="2344000" />
     </task>
     <task id="LOCAL-00001" summary="add git_ignore">
       <created>1630523884688</created>
@@ -415,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631656352154</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Update files">
+      <created>1631736259998</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1631736259998</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
